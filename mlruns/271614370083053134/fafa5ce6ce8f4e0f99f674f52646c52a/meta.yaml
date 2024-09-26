@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/271614370083053134/fafa5ce6ce8f4e0f99f674f52646c52a/artifacts
+end_time: 1727310095717
+entry_point_name: ''
+experiment_id: '271614370083053134'
+lifecycle_stage: active
+run_id: fafa5ce6ce8f4e0f99f674f52646c52a
+run_name: nimble-perch-655
+run_uuid: fafa5ce6ce8f4e0f99f674f52646c52a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727310093024
+status: 3
+tags: []
+user_id: root
